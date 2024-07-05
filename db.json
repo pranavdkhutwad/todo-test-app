@@ -1,0 +1,31 @@
+{
+  "todos": [
+    {
+      "name": "Angular",
+      "desc": "Learn routing in angular",
+      "priority": "3",
+      "id": "183f"
+    },
+    {
+      "name": "HTML",
+      "desc": "Learn semantic tags",
+      "priority": "2",
+      "id": "b0de"
+    },
+    {
+      "name": "React library",
+      "desc": "Learning API calls",
+      "priority": "1",
+      "id": "c0f8"
+    },
+    {
+      "id": "633e",
+      "name": "Tailwind css",
+      "desc": "info",
+      "priority": "3"
+    }
+  ],
+  "login": {
+    "token": "YCUXP7112T910"
+  }
+}
